@@ -1,6 +1,6 @@
 ## Grid using laravel 5.4 and Nayjest Grids
 
-icludes exports
+includes exports
 
 - [Nayjest Grids](https://github.com/Nayjest/Grids).
 
